@@ -124,8 +124,8 @@ class _HomeViewState extends State<HomeView> {
                 ],
               ),
               const SizedBox(height: 30),
-              LottieBuilder.network(
-                  'https://lottie.host/f0e7e37e-e24f-49b8-9cc1-c1645bf94e07/80pA0JniKO.json')
+              Lottie.asset(
+                  'assets/animations/graph.json'),
             ],
           ),
         ),
