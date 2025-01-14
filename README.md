@@ -55,8 +55,8 @@ crypto-compare-app/
 ```
 
 ## Screenshots
-![Home Screen](assets\Screnshots\HomePage_SS.jpg)
-![Dashboard Screen](assets\Screnshots\Dashboard_SS.jpg)
+![Home Screen](assets/Screnshots/HomePage_SS.jpg)
+![Dashboard Screen](assets/Screnshots/Dashboard_SS.jpg)
 
 ## Future Enhancements
 - **Search Functionality**: Allow users to search for specific cryptocurrencies.
