@@ -55,8 +55,13 @@ crypto-compare-app/
 ```
 
 ## Screenshots
-![Home Screen](assets/Screnshots/HomePage_SS.jpg)
-![Dashboard Screen](assets/Screnshots/Dashboard_SS.jpg)
+
+<!-- Resize the Home Screen image -->
+<img src="assets/Screnshots/HomePage_SS.jpg" alt="Home Screen" width="500" />
+
+<!-- Resize the Dashboard Screen image -->
+<img src="assets/Screnshots/Dashboard_SS.jpg" alt="Dashboard Screen" width="500" />
+
 
 ## Future Enhancements
 - **Search Functionality**: Allow users to search for specific cryptocurrencies.
