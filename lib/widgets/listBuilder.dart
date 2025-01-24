@@ -1,6 +1,5 @@
 import 'package:cryptotracker/model/crypto.dart';
 import 'package:cryptotracker/views/description_view.dart';
-import 'package:cryptotracker/widgets/card.dart';
 import 'package:flutter/material.dart';
 
 class CryptoListView extends StatelessWidget {
